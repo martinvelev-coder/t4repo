@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main() {
-    printf("bratko, Dancho");
+    printf("bratko, Nikola");
     return 0;
 }
